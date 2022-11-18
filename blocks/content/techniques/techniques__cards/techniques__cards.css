@@ -1,0 +1,5 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 240px);
+  justify-content: space-between;
+}

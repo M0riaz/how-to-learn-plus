@@ -1,0 +1,9 @@
+.resources__link {
+  display: flex;
+  flex-direction: row;
+  margin: 80px auto 217px auto;
+  transition:  1s ease;
+}
+.resources__link:hover {
+  opacity: 0.6;
+}

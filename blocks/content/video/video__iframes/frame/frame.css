@@ -1,0 +1,6 @@
+.frame:first-of-type{
+  margin-right: 20px;
+}
+.frame {
+  position: static;
+}

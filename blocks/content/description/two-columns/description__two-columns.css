@@ -1,0 +1,11 @@
+.two-columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.two-columns_indents {
+  width: 80%;
+  margin: 100px auto 0 auto;
+}
