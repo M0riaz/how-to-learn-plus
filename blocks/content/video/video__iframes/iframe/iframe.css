@@ -1,0 +1,9 @@
+.iframe:first-of-type{
+  margin-right: 20px;
+}
+.iframe {
+  position: static;
+  width: 515px;
+  height: 316px;
+  border: none;
+}
