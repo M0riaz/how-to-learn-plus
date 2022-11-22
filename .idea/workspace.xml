@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff240d3a-3fda-4fab-bec5-4c0f24edcbee" name="Changes" comment="исправление в Бэм распределение по папкам стилей">
+    <list default="true" id="ff240d3a-3fda-4fab-bec5-4c0f24edcbee" name="Changes" comment="удаление лишних папок">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <workItem from="1668872094682" duration="38000" />
       <workItem from="1668938166526" duration="30519000" />
       <workItem from="1669039405623" duration="21647000" />
-      <workItem from="1669062976426" duration="5186000" />
+      <workItem from="1669062976426" duration="5632000" />
     </task>
     <task id="LOCAL-00001" summary="Исправление проектной работы">
       <created>1668986165438</created>
@@ -91,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669066036644</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Правка в блоке khan. Исправлена ссылка.">
+      <created>1669068223605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669068223605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="удаление лишних папок">
+      <created>1669068449972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669068449972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +125,8 @@
     <MESSAGE value="Исправление проектной работы" />
     <MESSAGE value="исправление в section-subtitle_theme_dark" />
     <MESSAGE value="исправление в Бэм распределение по папкам стилей" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправление в Бэм распределение по папкам стилей" />
+    <MESSAGE value="Правка в блоке khan. Исправлена ссылка." />
+    <MESSAGE value="удаление лишних папок" />
+    <option name="LAST_COMMIT_MESSAGE" value="удаление лишних папок" />
   </component>
 </project>
