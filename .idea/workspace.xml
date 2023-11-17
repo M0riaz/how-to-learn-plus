@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff240d3a-3fda-4fab-bec5-4c0f24edcbee" name="Changes" comment="удаление лишних папок">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
       <workItem from="1668938166526" duration="30519000" />
       <workItem from="1669039405623" duration="21647000" />
       <workItem from="1669062976426" duration="5632000" />
+      <workItem from="1700179377102" duration="1654000" />
     </task>
     <task id="LOCAL-00001" summary="Исправление проектной работы">
       <created>1668986165438</created>
